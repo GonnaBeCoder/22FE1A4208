@@ -1,0 +1,21 @@
+{
+    "email": "ch.badrinathreddy@gmail.com",
+    "name": "chaddi badrinath reddy",
+    "rollNo": "22fe1a4208",
+    "accessCode": "YzuJeU",
+    "clientID": "8fd75562-eab8-46ae-ba00-e3949d86c216",
+    "clientSecret": "HuVHqqcUbdYqxQWa"
+}
+
+
+
+{
+    "logID": "d249c365-01b8-4150-8198-66bf1b5f9686",
+    "message": "log created successfully"
+}
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJjaC5iYWRyaW5hdGhyZWRkeUBnbWFpbC5jb20iLCJleHAiOjE3NTY5Njg5MjksImlhdCI6MTc1Njk2ODAyOSwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6ImZlMGY5MTEzLTY3M2UtNGU5Mi1iYzM1LWEzZDEyMmQ0ZDdmMSIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6ImNoYWRkaSBiYWRyaW5hdGggcmVkZHkiLCJzdWIiOiI4ZmQ3NTU2Mi1lYWI4LTQ2YWUtYmEwMC1lMzk0OWQ4NmMyMTYifSwiZW1haWwiOiJjaC5iYWRyaW5hdGhyZWRkeUBnbWFpbC5jb20iLCJuYW1lIjoiY2hhZGRpIGJhZHJpbmF0aCByZWRkeSIsInJvbGxObyI6IjIyZmUxYTQyMDgiLCJhY2Nlc3NDb2RlIjoiWXp1SmVVIiwiY2xpZW50SUQiOiI4ZmQ3NTU2Mi1lYWI4LTQ2YWUtYmEwMC1lMzk0OWQ4NmMyMTYiLCJjbGllbnRTZWNyZXQiOiJIdVZIcXFjVWJkWXF4UVdhIn0.CHo0lQg4TPYci3EeydzQmUHOwpO2VoE9WhA0SG62sAg",
+    "expires_in": 1756968929
+}
